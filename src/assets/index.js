@@ -1,0 +1,14 @@
+export { default as Logo } from "./SVGFile/Logo";
+export { default as BgSection1  } from "./SVGFile/C.svg";
+export { default as VideoImg  } from "./image/video.jpg";
+export {default as Image1 } from "./image/feature1.svg";
+export { default as Image2  } from "./image/feature2.svg";
+export { default as Image3  } from "./image/feature3.svg";
+export { default as Image4  } from "./image/feature4.svg";
+export { default as Image5  } from "./image/feature5.svg";
+export { default as Image6  } from "./image/feature6.svg";
+export { default as work1  } from "./image/work1.png";
+export { default as work2  } from "./image/work2.png";
+export { default as work3  } from "./image/work3.png";
+export { default as bg2  } from "./SVGFile/bg2.svg";
+export { default as qoute  } from "./SVGFile/qoute.svg";
